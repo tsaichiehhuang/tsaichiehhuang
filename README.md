@@ -30,5 +30,6 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:a0970605512@gmail.com'>a0970605512@gmail.com</a>
+  📫 How to reach me: <a href='mailto:a0970605512@gmail.com'>a0970605512@gmail.com</a><br/><br/>
+  <a href='https://www.linkedin.com/in/tsaichiehhuang0307/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
