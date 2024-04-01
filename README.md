@@ -3,9 +3,9 @@
 </h1>
 
 
-  #### Frontend Web Developer from Taiwan
+  #### Frontend Developer from Taiwan
 
-  #### Welcome to visit <a href='https://tsaichieh-website.vercel.app/'>My Website</a> 👈
+  #### Welcome to <a href='https://tsaichieh-website.vercel.app/'>My Website</a> 👈
 
 <p align='left'>
   💻 My Skills<br/>
